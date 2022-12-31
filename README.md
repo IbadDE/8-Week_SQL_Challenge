@@ -1,7 +1,6 @@
 # 8-Week_SQL_Challenge
-These challanges were asked on this webiste. 
+These challanges were asked on this [website](https://8weeksqlchallenge.com/).
 
-https://8weeksqlchallenge.com/
 
 
 ![Case Study #1 - Danny's Dinner](https://user-images.githubusercontent.com/104282317/210139474-eeeb9922-f940-4001-b77f-05fbb3d24eaa.JPG)
