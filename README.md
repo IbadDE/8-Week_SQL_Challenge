@@ -1,5 +1,6 @@
-# 8-Week_SQL_Challenge
-These challanges were asked on this [website](https://8weeksqlchallenge.com/).
+# **8-Week_SQL_Challenge**
+
+THANKS to **DANNY MA** for providing these challanges.These challanges were asked on this [website](https://8weeksqlchallenge.com/).
 
 
 
