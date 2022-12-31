@@ -14,7 +14,7 @@
 ![Table 2  subscriptions](https://user-images.githubusercontent.com/104282317/210137326-9cfdc2d5-7dc6-4956-a044-5af49c0d522b.JPG)
 
 
-   ##### B. Data Analysis Questions
+   #### B. Data Analysis Questions
 1: How many customers has Foodie-Fi ever had?
 
 2: What is the monthly distribution of trial plan start_date values for our dataset - use the start of the month as the group by value
@@ -38,7 +38,7 @@
 11: How many customers downgraded from a pro monthly to a basic monthly plan in 2020?
 
 
-  #####  C. Challenge Payment Question
+  ####  C. Challenge Payment Question
   
   
   
@@ -53,7 +53,7 @@ upgrades from pro monthly to pro annual are paid at the end of the current billi
 once a customer churns they will no longer make payments
 
 
-  ##### D. Outside The Box Questions
+  #### D. Outside The Box Questions
   
 The following are open ended questions which might be asked during a technical interview for this case study - there are no right or wrong answers, but answers that make sense from both a technical and a business perspective make an amazing impression!
 
