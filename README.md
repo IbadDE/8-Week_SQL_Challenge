@@ -1,6 +1,6 @@
 # **8-Week_SQL_Challenge**
 
-THANKS to **DANNY MA** for providing these challanges.These challanges were asked on this [website](https://8weeksqlchallenge.com/).
+THANKS to **DANNY MA** for providing these challanges.These challanges are available on this [website](https://8weeksqlchallenge.com/).
 
 
 #### Case Study #1 - Danny's Diner
