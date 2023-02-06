@@ -2,7 +2,7 @@
 ----------------------------------------------------------   A. Customer Nodes Exploration   ----------------------------------------------------------
 
 --1: How many unique nodes are there on the Data Bank system?
-SELECT SUM(cnt) 
+SELECT SUM(cnt)  
 FROM (SELECT COUNT(DISTINCT node_id) AS cnt
 	FROM customer_nodes
 	GROUP BY region_id, node_id) as sub
