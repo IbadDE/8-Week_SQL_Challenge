@@ -32,5 +32,4 @@ THANKS to **DANNY MA** for providing these challanges.These challanges are avail
 ![case study #7](https://user-images.githubusercontent.com/104282317/210139488-840b7ced-1b25-4964-9325-01b3fd9810fb.JPG)
 
 #### Case Study #8 - Fresh Segments
-
 ![case study #8](https://user-images.githubusercontent.com/104282317/210139489-f0a8dfb6-f188-4994-8cf6-ac0d1ca0446f.JPG)
