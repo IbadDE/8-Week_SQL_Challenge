@@ -3,7 +3,7 @@ DROP TABLE IF EXISTS customer_orders_temp;
 SELECT order_id,
 		customer_id,
 		pizza_id,
-	   CASE WHEN extras IN ('null', '') THEN null
+	   CASE WHEN extras IN ('null', '') THEN null 
 	   	    ELSE extras END
 	   		AS extras,
 	   CASE WHEN exclusions IN ('null', '') THEN null
