@@ -30,7 +30,7 @@ SELECT order_id,
 	CASE WHEN duration like '%min%' then trim(substring(duration, 0, position('m' in duration)))
 		 WhEN duration in ('null', ' ') then null
 		 ELSE TRIM(duration) END ::int  as duration,
-	CASE WHEN cancellation in ('null', '') then null
+	CASE WHEN cancellation in ('null', '') then null 
 		 ELSE TRIM(cancellation) END AS cancellation
 INTO runner_order_temp
 FROM runner_orders;
